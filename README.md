@@ -1,4 +1,4 @@
-# heroku-google
+# google-credentials-heroku-buildpack
 Generates a Google credential file based on Heroku Config Vars.
 
 ## Usage
@@ -9,3 +9,4 @@ Generates a Google credential file based on Heroku Config Vars.
 The script with generate a file called `google-credentials.json` which holds the key from the step #1 above.
 
 
+Note: If you are using LARAVEL please set GOOGLE_APPLICATION_CREDENTIALS = `../google-credentials.json`
