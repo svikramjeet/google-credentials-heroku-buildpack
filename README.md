@@ -1,5 +1,5 @@
 
-# google-credentials-heroku-buildpack
+# Heroku Buildpack: google-credentials.json-heroku-buildpack
 
 Generates a Google credential file (google-credentials.json) based on Heroku Config/Env Variables.
 
